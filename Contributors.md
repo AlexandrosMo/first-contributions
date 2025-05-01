@@ -37,6 +37,7 @@
  -[Isaiah Richards](https://github.com/iprichards)
  -[Ronan Cuaresma](https://github.com/MuushyRoom)
  -[Michelle Burton] (https://github.com/michelle-burton)
+ -[Alexandros Moraitis](https://github.com/AlexandrosMo)
  - [SFatimah56](https://github.com/SFatimah56)
  - [Biraj Paul]
  -[Alejandra_Salcedo] (https://github.com/asalcedo07/first-contributions.git)
